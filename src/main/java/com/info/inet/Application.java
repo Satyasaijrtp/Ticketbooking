@@ -7,7 +7,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
 @EnableScheduling
 public class Application {
-
+System.out.println("hiiiiiiiiiiiiiiiiiii");
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
